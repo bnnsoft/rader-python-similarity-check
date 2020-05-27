@@ -1,0 +1,1 @@
+# rader-python-similarity-check
